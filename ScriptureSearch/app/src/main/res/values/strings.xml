@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScriptureSearch</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Find Scripture</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">Your Scripture</string>
+</resources>
